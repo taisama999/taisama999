@@ -15,4 +15,4 @@ Real-world measurements, failure logs, and practical runbooks—not vendor marke
 
 ### 🔗 Links
 * **Technical Blog (JP):** [Alibaba Cloudの備忘ログ](https://www.bigriver.jp/) *(480+ hands-on verification articles since 2019)*
-* **X (Twitter):** [@あなたのXのID](https://x.com/taisama9)
+* **X (Twitter):** [@taisama9](https://x.com/taisama9)
